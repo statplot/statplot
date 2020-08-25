@@ -3,7 +3,7 @@
 ![statplot_logo](./doc/logos/statplot_logo.png) <!-- .element height="50%" width="50%" -->
 
 
-<img src="./doc/logos/statplot_logo.png" width="100" height="100">
+<img src="./doc/logos/statplot_logo.png" width="200" height="200">
 -----------------
 
 # statplot python statistical analysis toolkit
