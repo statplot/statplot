@@ -21,6 +21,8 @@ The source code is currently hosted at GitHub: https://github.com/statplot/statp
 
 Binary installers the released packages are available at https://pypi.org/project/statplot/
 
-`#PyPI
-pip install statplot`
+```
+- **PyPI**
+- `pip install statplot`
 
+```
