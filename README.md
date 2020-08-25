@@ -1,6 +1,8 @@
 
 .. image:: doc/statplot_logo.png
 
+![statplot_logo](./doc/statplot_logo.png)
+
 -----------------
 
 # statplot python statistical analysis toolkit
@@ -12,8 +14,7 @@
 
 
 
-.. |PythonVersion| image:: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
-.. _PythonVersion: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
+
 
 
 **Statplot** is a statistical data analysis module in Python for machine learning. It provides a flexible and easy to use library for optimal data analysis and model training for machine learning algorithms. This python package aims to be a fundamentally high level building block for  carrying out high level statistical infereence and optimal data analysis in a most simoplified way for optimal output and results. Furthermore, it is an open source package for carrying out a wide variety of statistical data analysis.
