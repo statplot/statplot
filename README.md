@@ -1,7 +1,7 @@
 
 .. image:: doc/statplot_logo.png
 
-![statplot_logo](./doc/statplot_logo.png)
+![statplot_logo](./doc/logos/statplot_logo.png)
 
 -----------------
 
