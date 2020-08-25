@@ -7,12 +7,12 @@
 
 [![PyPI Latest Release](https://img.shields.io/pypi/v/statplot.svg)](https://pypi.org/project/statplot/)
 
-[![Conda Latest Release](https://anaconda.org/conda-forge/statplot/badges/version.svg)](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
+[![PythonVersion](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)
 
 
-![Conda Latest Release](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
 
-![Conda Latest Release](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
+
+
 
 .. |PythonVersion| image:: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
 .. _PythonVersion: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
