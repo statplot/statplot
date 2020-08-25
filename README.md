@@ -7,7 +7,7 @@
 ![PyPI Release](https://pypi.org/project/statplot/)
 ![Conda Latest Release](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
 
-![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
+![Conda Latest Release](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
 
 .. |PythonVersion| image:: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
 .. _PythonVersion: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
