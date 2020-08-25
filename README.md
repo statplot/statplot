@@ -1,6 +1,6 @@
 
 
-![statplot_logo](./doc/logos/statplot_logo.png=250x250)
+![statplot_logo](./doc/logos/statplot_logo.png) <!-- .element height="50%" width="50%" -->
 
 -----------------
 
