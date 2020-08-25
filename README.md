@@ -10,12 +10,6 @@
 
 
 
-
-
-
-
-
-
 **Statplot** is a statistical data analysis module in Python for machine learning. It provides a flexible and easy to use library for optimal data analysis and model training for machine learning algorithms. This python package aims to be a fundamentally high level building block for  carrying out high level statistical infereence and optimal data analysis in a most simoplified way for optimal output and results. Furthermore, it is an open source package for carrying out a wide variety of statistical data analysis.
 
 ## Main Features 
@@ -27,6 +21,6 @@ The source code is currently hosted at GitHub: https://github.com/statplot/statp
 
 Binary installers the released packages are available at https://pypi.org/project/statplot/
 
-- **PyPI**
-`pip install statplot`
+`#PyPI
+pip install statplot`
 
