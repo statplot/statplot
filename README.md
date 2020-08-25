@@ -7,7 +7,9 @@
 
 [![PyPI Latest Release](https://img.shields.io/pypi/v/statplot.svg)](https://pypi.org/project/statplot/)
 
-![PyPI Release](https://pypi.org/project/statplot/)
+[![Conda Latest Release](https://anaconda.org/conda-forge/statplot/badges/version.svg)](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
+
+
 ![Conda Latest Release](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
 
 ![Conda Latest Release](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
