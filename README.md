@@ -22,5 +22,24 @@ The source code is currently hosted at GitHub: https://github.com/statplot/statp
 Binary installers the released packages are available at https://pypi.org/project/statplot/
 
 
-# PyPI
+## PyPI
  - `pip install statplot`
+
+## Conda
+- `conda install statplot`
+
+## Dependencies 
+- Numpy
+- Matplotlib
+
+# Discussion and Development
+The majority of discussion regarding development of statplot takes place on the github in this repo. 
+
+# Contributing to statplot
+All contributors, bug reports and fixes, documentation improvements and new ideas are all welcome. 
+
+If you are simply interested to start working with statplot codebase, please nevegate to the **GitHub** "issues" tab and start looking through interesting issues. 
+
+Please feel free to ask questions and contribute to the advancement of this package.
+
+As contibutors and maintainers of statplot project, you are expected to abide by the code of conduct. 
