@@ -5,7 +5,7 @@
 
 # statplot python statistical analysis toolkit
 
-[![PyPI Latest Release](https://img.shields.io/pypi/v/pandas.svg)](https://pypi.org/project/statplot/)
+[![PyPI Latest Release](https://img.shields.io/pypi/v/statplot.svg)](https://pypi.org/project/statplot/)
 
 ![PyPI Release](https://pypi.org/project/statplot/)
 ![Conda Latest Release](https://docs.anaconda.com/anaconda/packages/docs-pkgs/)
